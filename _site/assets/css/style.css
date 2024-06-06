@@ -200,9 +200,11 @@ p { text-align: justify; }
 
 #customers tr:hover { background-color: #ddd; }
 
-#customers th { padding-top: 12px; padding-bottom: 12px; text-align: left; background-color: #8b61fc; color: white; }
+#customers th { padding-top: 12px; padding-bottom: 12px; text-align: left; background-color: #0C213D; color: white; }
 
 .dropdown-item:focus { background-color: transparent; }
+
+@media only screen and (min-width: 600px) { #volunteer_card { margin-left: 35%; } }
 
 html { font-size: 16px; }
 
