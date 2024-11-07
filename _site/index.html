@@ -31,7 +31,19 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap" rel="stylesheet">
 </head>
-<body>
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-95HXS679NK"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-95HXS679NK');
+    </script>
+  </head>
+  
+  <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">ENLSP 2024</a>
@@ -89,6 +101,14 @@
 				  <a class="nav-link text-nowrap " aria-current="page" href="/index.html#technical_committee">Technical committee</a>
 				</li>
             
+        
+            
+            
+            
+				<li class="nav-item">
+				  <a class="nav-link text-nowrap " aria-current="page" href="/accepted_papers.html">Accepted papers</a>
+				</li>
+            
          
       </ul>
     </div>
@@ -97,6 +117,27 @@
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <div class="home"><p><img src="/images/banner2024.png" style="pointer-events: none; user-select: none;" /></p>
+
+<!-- 
+<div style="
+  border: 1px solid #ccc; 
+  border-radius: 15px; 
+  padding: 20px; 
+  width: 100%; 
+  background-color: #f9f9f9;">
+  <h2 style="margin-top: -10px;">📰 <b>Latest Updates</b></h2>
+    <ul>
+    <span class="news-item-icon">📢</span> <b>author notifications have been released on Oct. 9th. 
+	</b>
+	<p>
+    We have added a special fast track for papers reviewed at NeurIPS 2024 that were not accepted. Authors can submit their papers with a link to their (anonymous) OpenReview page, giving our program committee access to the reviews of their paper.
+  	</p>
+	<span class="news-item-icon">📢</span> Our Submission Portal will remain open until September 18th, AOE, for editing existing submitted papers. 
+     Add more news items as needed 
+  </ul>
+</div> 
+-->
+
 <p>
 The fourth version of the Efficient Natural Language and Speech Processing (ENLSP-IV) workshop will focus on how to make large language and foundation models more efficient in terms of <b>Architecture</b>, <b>Training</b>, and <b>Inference</b> in their real-world applications. This year, following the trend of industry and academia, we put more emphasis on investigating new architectures to make future language and foundation models more efficient. Moreover, we highlight the importance of comprehensive evaluation and benchmarking new efficient models from different practical aspects. 
 The workshop program offers an interactive platform for gathering experts and talents from academia and industry through invited talks, panel discussion, paper submission, reviews, interactive poster sessions, oral presentations and a couple of mentorship sessions for new researchers.
@@ -163,23 +204,24 @@ To encourage engagement from the NeurIPS community, we present several active re
 
 <h2 class="blackpar_title">Submission Instructions</h2>
 <p>
-You are invited to submit your papers in our CMT submission portal <a href="https://cmt3.research.microsoft.com/ENLSP2024">(Link)</a>. All the submitted papers have to be anonymous for double-blind review. We expect each paper will be reviewed by at least three reviewers. The content of the paper (excluding the references and supplementary materials) should not be longer than 6 pages, strictly following the NeurIPS template style. 
+You are invited to submit your papers in our CMT submission portal <a href="https://cmt3.research.microsoft.com/ENLSP2024">(Link)</a>. All the submitted papers have to be anonymous for double-blind review. We expect each paper will be reviewed by at least three reviewers. The content of the paper (excluding the references and supplementary materials) should not be more than <b>8 pages for Long Papers</b> and <b>4 pages for Short Papers</b>, strictly following the NeurIPS template style <a href="https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh">(Link)</a>. Please be advised that the NeurIPS submission checklist is not needed for our workshop submissions. 
 <br />
-Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. According to the guideline of the NeurIPS workshops, already published papers are not encouraged for submission, but you are allowed to submit your ArXiv papers or the ones which are under submission. Moreover, a work that is presented at the main NeurIPS conference should not appear in a workshop. Please make sure to indicate the complete list of conflict of interests for all the authors of your paper. To encourage higher quality submissions, our sponsors are offering the <b>Best Paper</b> and the <b>Best Poster</b> Awards to qualified outstanding original oral and poster presentations (upon nomination of the reviewers). Bear in mind that our workshop is not archival, but the accepted papers will be hosted on the workshop website.
+Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. According to the guideline of the NeurIPS workshops, already published papers are not encouraged for submission, but you are allowed to submit your ArXiv papers or the ones which are under submission (for example <b> any NeurIPS submissions can be submitted concurrently to workshops </b>). Moreover, a work that is presented at the main NeurIPS conference should not appear in a workshop. Please make sure to indicate the complete list of conflict of interests for all the authors of your paper. To encourage higher quality submissions, our sponsors are offering the <b>Best Paper</b> and the <b>Best Poster</b> Awards to qualified outstanding original oral and poster presentations (upon nomination of the reviewers). Bear in mind that our workshop is not archival, but the accepted papers will be hosted on the workshop website. Moreover, we are currently negotiating with a publisher to host opt-in accepted papers in a special issue proceeding for our workshop.
 </p>
 
 <h2 class="blackpar_title">Important Dates:</h2>
 <p>
 <ul>
-	<li>Submission Deadline: <b>August 30, 2024 Anywhere on Earth (AOE)</b> </li>
-	<li>Acceptance Notification: <b>September 29, 2024 AOE</b> </li>
-	<li>Camera-Ready Submission: <b>October 11, 2024 AOE</b> </li>
-	<li>Workshop Date: <b>TBD </b></li>
+	<li><s>Special NeurIPS Fast Track Submission Deadline: <b>September 30, 2024 Anywhere on Earth (AOE)</b></s></li>
+	<li><s>Submission Deadline: September 15, 2024 Anywhere on Earth (AOE)</s> </li>
+	<li><s>Acceptance Notification: <b>October 09, 2024 AOE</b></s></li>
+	<li>Camera-Ready Submission: <b>October 25, 2024 AOE</b> </li>
+	<li>Workshop Date: <b>December 14, 2024 </b></li>
 </ul>
 </p>
 
 <!--Confirmed Speakers-->
-<h2 class="blackpar_title" id="speakers">Confirmed Keynote Speakers</h2>
+<h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
 <p>
 
 
@@ -204,14 +246,14 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 				</div>
 			
 				<div class="card_perso column_perso">
-				  <img src="/images/christopher_re.jpg" alt="Christopher Re" class="img_card_perso" />
+				  <img src="/images/peter_clark.jpg" alt="Peter Clark" class="img_card_perso" />
 				  <div class="container_perso">
 					<center>
 					<h5>
-						<b>Christopher Re</b>
+						<b>Peter Clark</b>
 					</h5>
 					<h6>
-						Stanford
+						Allen Institute for AI
 					</h6>
 					</center>
 				  </div>
@@ -232,14 +274,14 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 				</div>
 			
 				<div class="card_perso column_perso">
-				  <img src="/images/peter_clark.jpg" alt="Peter Clark" class="img_card_perso" />
+				  <img src="/images/tri_dao.jpeg" alt="Tri Dao" class="img_card_perso" />
 				  <div class="container_perso">
 					<center>
 					<h5>
-						<b>Peter Clark</b>
+						<b>Tri Dao</b>
 					</h5>
 					<h6>
-						Allen Institute for AI
+						Princeton/Together AI
 					</h6>
 					</center>
 				  </div>
@@ -253,8 +295,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 		
 		
 			
-				
-				<div class="card_perso column_perso" style="margin-left:13%;">
+				<div class="card_perso column_perso">
 				  <img src="/images/Hananeh_Hajishirzi.jpg" alt="Hananeh Hajishirzi" class="img_card_perso" />
 				  <div class="container_perso">
 					<center>
@@ -267,9 +308,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 					</center>
 				  </div>
 				</div>
-				
 			
-				
 				<div class="card_perso column_perso">
 				  <img src="/images/navdeep-jaitly.jpg" alt="Navdeep Jaitly" class="img_card_perso" />
 				  <div class="container_perso">
@@ -283,9 +322,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 					</center>
 				  </div>
 				</div>
-				
 			
-				
 				<div class="card_perso column_perso">
 				  <img src="/images/Maciej-Besta.png" alt="Maciej Besta" class="img_card_perso" />
 				  <div class="container_perso">
@@ -299,7 +336,20 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 					</center>
 				  </div>
 				</div>
-				
+			
+				<div class="card_perso column_perso">
+				  <img src="/images/lili_mou.jpg" alt="Lili Mou" class="img_card_perso" />
+				  <div class="container_perso">
+					<center>
+					<h5>
+						<b>Lili Mou</b>
+					</h5>
+					<h6>
+						University of Alberta
+					</h6>
+					</center>
+				  </div>
+				</div>
 			
 		
 		</div>
@@ -307,7 +357,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 
 </p>
 
-<h2 class="blackpar_title" id="speakers">Confirmed Panelists</h2>
+<h2 class="blackpar_title" id="speakers">Panelists</h2>
 <p>
 
 
@@ -317,8 +367,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 		
 		
 			
-				
-				<div class="card_perso column_perso" style="margin-left:13%;">
+				<div class="card_perso column_perso">
 				  <img src="/images/MarjanGhazvininejad.jpg" alt="Marjan Ghazvini Nejad" class="img_card_perso" />
 				  <div class="container_perso">
 					<center>
@@ -330,9 +379,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 					</center>
 				  </div>
 				</div>
-				
 			
-				
 				<div class="card_perso column_perso">
 				  <img src="/images/luhou.jpg" alt="Lu Hou" class="img_card_perso" />
 				  <div class="container_perso">
@@ -345,9 +392,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 					</center>
 				  </div>
 				</div>
-				
 			
-				
 				<div class="card_perso column_perso">
 				  <img src="/images/joelhestness.jpg" alt="Joel Hestness" class="img_card_perso" />
 				  <div class="container_perso">
@@ -360,9 +405,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 					</center>
 				  </div>
 				</div>
-				
 			
-				
 				<div class="card_perso column_perso">
 				  <img src="/images/katie_d.jpg" alt="Katie Derthick" class="img_card_perso" />
 				  <div class="container_perso">
@@ -375,7 +418,6 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 					</center>
 				  </div>
 				</div>
-				
 			
 		
 		</div>
@@ -880,8 +922,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 	
 	
 		
-			
-			<div class="card_perso column_perso" style="margin-left:13%;">
+			<div class="card_perso column_perso">
 			  <img src="/images/Mehdi_Rezagholizadeh.jpg" alt="Mehdi Rezagholizadeh" class="img_card_perso" />
 			  <div class="container_perso">
 				<center>
@@ -894,14 +935,16 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 				
 					<a href="https://scholar.google.com/citations?user=MvXlF6kAAAAJ&amp;hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
 				
-				&nbsp;
-				<a href="https://www.linkedin.com/in/mehdi-rezagholizadeh-61212346/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
+					&nbsp;
+				
+				
+					<a href="https://www.linkedin.com/in/mehdi-rezagholizadeh-61212346/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
 				</center>
 			  </div>
 			</div>
-			
 		
-			
 			<div class="card_perso column_perso">
 			  <img src="/images/peyman_passban.jpg" alt="Peyman Passban" class="img_card_perso" />
 			  <div class="container_perso">
@@ -915,14 +958,16 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 				
 					<a href="https://scholar.google.ca/citations?user=wRaQX-EAAAAJ&amp;hl=en&amp;oi=ao"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
 				
-				&nbsp;
-				<a href="https://www.linkedin.com/in/passban/?originalSubdomain=ca"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
+					&nbsp;
+				
+				
+					<a href="https://www.linkedin.com/in/passban/?originalSubdomain=ca"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
 				</center>
 			  </div>
 			</div>
-			
 		
-			
 			<div class="card_perso column_perso">
 			  <img src="/images/yu_cheng.jfif" alt="Yu Cheng" class="img_card_perso" />
 			  <div class="container_perso">
@@ -936,12 +981,38 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 				
 					<a href="https://scholar.google.com/citations?user=ORPxbV4AAAAJ&amp;hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
 				
-				&nbsp;
-				<a href="https://www.linkedin.com/in/chengyu05/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
+					&nbsp;
+				
+				
+					<a href="https://www.linkedin.com/in/chengyu05/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
 				</center>
 			  </div>
 			</div>
-			
+		
+			<div class="card_perso column_perso">
+			  <img src="/images/soheila.jpg" alt="Soheila Samiee" class="img_card_perso" />
+			  <div class="container_perso">
+				<center>
+				<h6>
+					<b>Soheila Samiee</b>
+					<br />
+					BASF
+				</h6>
+				<br />
+				
+					<a href="https://scholar.google.ca/citations?user=9aZFWa8AAAAJ&amp;hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+				
+				
+					&nbsp;
+				
+				
+					<a href="https://www.linkedin.com/in/soheila-samiee-3696a858/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
+				</center>
+			  </div>
+			</div>
 		
 	
 	</div>
@@ -951,28 +1022,6 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 	
 	
 		
-			
-			<div class="card_perso column_perso" style="margin-left:13%;">
-			  <img src="/images/vahid_partovi.jpg" alt="Vahid Partovi Nia" class="img_card_perso" />
-			  <div class="container_perso">
-				<center>
-				<h6>
-					<b>Vahid Partovi Nia</b>
-					<br />
-					Ecole Polytechnique Montreal &amp; Huawei
-				</h6>
-				<br />
-				
-					<a href="https://scholar.google.ca/citations?user=onMDIN4AAAAJ&amp;hl=en&amp;oi=ao"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
-				
-				&nbsp;
-				<a href="https://ca.linkedin.com/in/vahid-partovi-nia-29811385"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
-				</center>
-			  </div>
-			</div>
-			
-		
-			
 			<div class="card_perso column_perso">
 			  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card_perso" />
 			  <div class="container_perso">
@@ -986,14 +1035,62 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 				
 					<a href="https://scholar.google.ca/citations?user=WYkn4loAAAAJ"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
 				
-				&nbsp;
-				<a href="https://www.linkedin.com/in/yuedongcs/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
+					&nbsp;
+				
+				
+					<a href="https://www.linkedin.com/in/yuedongcs/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
 				</center>
 			  </div>
 			</div>
-			
 		
-			
+			<div class="card_perso column_perso">
+			  <img src="/images/vahid_partovi.jpg" alt="Vahid Partovi Nia" class="img_card_perso" />
+			  <div class="container_perso">
+				<center>
+				<h6>
+					<b>Vahid Partovi Nia</b>
+					<br />
+					Ecole Polytechnique Montreal &amp; Huawei
+				</h6>
+				<br />
+				
+					<a href="https://scholar.google.ca/citations?user=onMDIN4AAAAJ&amp;hl=en&amp;oi=ao"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+				
+				
+					&nbsp;
+				
+				
+					<a href="https://ca.linkedin.com/in/vahid-partovi-nia-29811385"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
+				</center>
+			  </div>
+			</div>
+		
+			<div class="card_perso column_perso">
+			  <img src="/images/qun_liu.png" alt="Qun Liu" class="img_card_perso" />
+			  <div class="container_perso">
+				<center>
+				<h6>
+					<b>Qun Liu</b>
+					<br />
+					Huawei Noah's Ark Lab
+				</h6>
+				<br />
+				
+					<a href="https://scholar.google.com.sg/citations?user=2HhiGzcAAAAJ&amp;hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+				
+				
+					&nbsp;
+				
+				
+					<a href="https://www.linkedin.com/in/qunliu/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
+				</center>
+			  </div>
+			</div>
+		
 			<div class="card_perso column_perso">
 			  <img src="/images/boxing.jpg" alt="Boxing Chen" class="img_card_perso" />
 			  <div class="container_perso">
@@ -1007,12 +1104,15 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 				
 					<a href="https://scholar.google.ca/citations?user=LiINs3gAAAAJ&amp;hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
 				
-				&nbsp;
-				<a href="https://www.linkedin.com/in/boxingchen/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
+					&nbsp;
+				
+				
+					<a href="https://www.linkedin.com/in/boxingchen/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
 				</center>
 			  </div>
 			</div>
-			
 		
 	
 	</div>
@@ -1028,28 +1128,6 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 	
 	
 		
-			
-			<div class="card_perso column_perso" style="margin-left:13%;">
-			  <img src="/images/khalil_bibi.png" alt="Khalil Bibi" class="img_card_perso" />
-			  <div class="container_perso">
-				<center>
-				<h6>
-					<b>Khalil Bibi</b>
-					<br />
-					
-				</h6>
-				<br />
-				
-					<a href="https://scholar.google.ca/citations?user=feQAvxoAAAAJ&amp;hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
-				
-				&nbsp;
-				<a href="https://www.linkedin.com/in/khalilbibi/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
-				</center>
-			  </div>
-			</div>
-			
-		
-			
 			<div class="card_perso column_perso">
 			  <img src="/images/dav.jpg" alt="David Alfonso-Hermelo" class="img_card_perso" />
 			  <div class="container_perso">
@@ -1063,33 +1141,84 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 				
 					<a href="https://scholar.google.ca/citations?user=g6GccGAAAAAJ&amp;hl=en&amp;oi=ao"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
 				
-				&nbsp;
-				<a href="https://www.linkedin.com/in/david-alfonso-hermelo-6646a1b1/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
+					&nbsp;
+				
+				
+					<a href="https://www.linkedin.com/in/david-alfonso-hermelo-6646a1b1/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
 				</center>
 			  </div>
 			</div>
-			
 		
-			
 			<div class="card_perso column_perso">
-			  <img src="/images/soheila.jpg" alt="Soheila Samiee" class="img_card_perso" />
+			  <img src="/images/khalil_bibi.png" alt="Khalil Bibi" class="img_card_perso" />
 			  <div class="container_perso">
 				<center>
 				<h6>
-					<b>Soheila Samiee</b>
+					<b>Khalil Bibi</b>
 					<br />
-					BASF
+					Haven Studios
 				</h6>
 				<br />
 				
-					<a href="https://scholar.google.ca/citations?user=9aZFWa8AAAAJ&amp;hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+					<a href="https://scholar.google.ca/citations?user=feQAvxoAAAAJ&amp;hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
 				
-				&nbsp;
-				<a href="https://www.linkedin.com/in/soheila-samiee-3696a858/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
+					&nbsp;
+				
+				
+					<a href="https://www.linkedin.com/in/khalilbibi/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
 				</center>
 			  </div>
 			</div>
-			
+		
+			<div class="card_perso column_perso">
+			  <img src="/images/Mahsa.jpg" alt="Mahsa Ghazvini Nejad" class="img_card_perso" />
+			  <div class="container_perso">
+				<center>
+				<h6>
+					<b>Mahsa Ghazvini Nejad</b>
+					<br />
+					Huawei Noah's Ark Lab
+				</h6>
+				<br />
+				
+					<a href="https://scholar.google.com/citations?hl=en&amp;user=lcbIy5IAAAAJ"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+				
+				
+					&nbsp;
+				
+				
+					<a href="https://www.linkedin.com/in/mahsa-ghazvini-nejad/?originalSubdomain=ca"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
+				</center>
+			  </div>
+			</div>
+		
+			<div class="card_perso column_perso">
+			  <img src="/images/ali.jpg" alt="Ali Edalati" class="img_card_perso" />
+			  <div class="container_perso">
+				<center>
+				<h6>
+					<b>Ali Edalati</b>
+					<br />
+					Huawei Noah's Ark Lab
+				</h6>
+				<br />
+				
+					<a href="https://scholar.google.ca/citations?user=-iXSHbUAAAAJ&amp;hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+				
+				
+					&nbsp;
+				
+				
+					<a href="https://www.linkedin.com/in/ali-edalati-b27195165/?originalSubdomain=ca"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				
+				</center>
+			  </div>
+			</div>
 		
 	
 	</div>
@@ -1141,7 +1270,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <p><br /></p>
 
 <!-- Technical Committee -->
-<h2 class="blackpar_title" id="technical_committee">Confirmed Technical Committee</h2>
+<h2 class="blackpar_title" id="technical_committee">Technical Committee</h2>
 <p>
 
 
@@ -1156,11 +1285,23 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 						
 					
 						
+							<li> Dan Alistarh (ISTA) </li>
+						
+					
+						
+							<li> Vahid Partovi Nia (Ecole Polytechnique Montreal &amp; Huawei) </li>
+						
+					
+						
 							<li> Tanya Roosta (Amazon) </li>
 						
 					
 						
 							<li> Peyman Passban (Sanofi) </li>
+						
+					
+						
+							<li> Ehsaneddin Asgari (QCRI) </li>
 						
 					
 						
@@ -1196,11 +1337,11 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 						
 					
 						
-							<li> Dan Alistarh (ISTA) </li>
+							<li> Yufei Cui (Huawei Noah's Ark Lab) </li>
 						
 					
 						
-							<li> Vahid Partovi Nia (Ecole Polytechnique Montreal &amp; Huawei) </li>
+							<li> Mahdi Biparva (Huawei Noah's Ark Lab) </li>
 						
 					
 						
@@ -1213,6 +1354,14 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 					
 						
 							<li> Ehsan Kamalloo (Service Now Research) </li>
+						
+					
+						
+							<li> Anderson Avila (INRS-EMT) </li>
+						
+					
+						
+							<li> Abbas Rahimi (IBM) </li>
 						
 					
 						
@@ -1244,10 +1393,6 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 						
 					
 						
-							<li> Abbas Rahimi (IBM) </li>
-						
-					
-						
 							<li> Aysegul Bumin (Amazon) </li>
 						
 					
@@ -1264,6 +1409,10 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 						
 					
 						
+							<li> Anusha Sabbineni (Amazon) </li>
+						
+					
+						
 							<li> Parsa Omidi (Huawei Technologies Canada) </li>
 						
 					
@@ -1277,6 +1426,22 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 					
 						
 							<li> Mofetoluwa Adeyemi (University of Waterloo) </li>
+						
+					
+						
+							<li> Xindi Wang  (University of Western Ontario) </li>
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
 						
 					
 						
@@ -1409,7 +1574,15 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 						
 					
 						
-							<li> Xindi Wang  (University of Western Ontario) </li>
+					
+						
+					
+						
+					
+						
+					
+						
+					
 						
 					
 						
@@ -1529,7 +1702,31 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 						
 					
 						
-							<li> Yufei Cui (Huawei Noah's Ark Lab) </li>
+							<li> Mohammad Ali Alomrani (Huawei Noah's Ark Lab) </li>
+						
+					
+						
+							<li> Abdul Hameed Azeemi (Lahore University) </li>
+						
+					
+						
+							<li> Mohammadreza Pourreza (Google Research) </li>
+						
+					
+						
+							<li> Yunan Zhang (Microsoft) </li>
+						
+					
+						
+							<li> MohammadAli SadraeiJavaheri (Sharif University) </li>
+						
+					
+						
+							<li> Omid Ghahroodi (Sharif University) </li>
+						
+					
+						
+							<li> Adam Lee (UC Bereley) </li>
 						
 					
 				</ul>
@@ -1545,57 +1742,54 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 	<img src="/images/logos.png">	
 	<img src="/images/BASF_logo.png">	
 </center> -->
-<h2 class="blackpar_title" id="sponsors">Confirmed Sponsors</h2>
+
+<!-- <h2 class="blackpar_title">Sponsors</h2>
+<p>
+We are currently welcoming sponsorship opportunities. If your organization is interested in supporting our conference, please contact us (neurips.ENLSP.2024@gmail.com) for more information on sponsorship packages and benefits. 
+</p> -->
+
+<h2 class="blackpar_title" id="sponsors"> Diamond Sponsors</h2>
 <p><br /></p>
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/images/BASF_logo.png" width="250px" />
+			<img src="/images/Diamond.png" width="800px" />
 		</center>
-	</div>	
+	</div>
 	<!-- <div class="col">
 		<center>
-			<img src="/images/BASF_logo.png" width="250px">
+			<img src="/images/BASF_logo.png" width="350px">
 		</center>
 	</div>	 -->
+</div>
+<p><br /></p>
+<h2 class="blackpar_title">Platinum Sponsor</h2>
+<div class="row">
 	<div class="col">
 		<center>
-			<img src="/images/netmind_logo.png" width="500px" />
+			<img src="/images/Apple-Logo.jpg" width="250px" />
+		</center>
+	</div>
+</div>
+<h2 class="blackpar_title">Gold Sponsors</h2>
+<p><br /></p>
+<div class="row">
+	<div class="col">
+		<center>
+			<img src="/images/shanghai_ai_lab1.png" width="200px" />
+		</center>
+	</div>
+	<div class="col">
+		<center>
+			<img src="/images/Logo-Sanofi.png" width="150px" />
 		</center>
 	</div>
 </div>
 <p><br /></p>
-
 <div class="row">
 	<div class="col">
 		<center>
-			<img src="/images/huawei_logo.png" width="400px" />
-		</center>
-	</div>
-
-</div>
-
-<p><br /></p>
-
-<!-- <h2 class="blackpar_title">Platinum Sponsor</h2> -->
-<!-- <div class="row">
-	<div class="col">
-		<center>
-			<img src="/images/netmind_logo.png" width="450px">
-		</center>
-	</div>
-</div>
-<br><br> -->
-<!-- <h2 class="blackpar_title">Gold Sponsor</h2> -->
-<div class="row">
-	<div class="col">
-		<center>
-			<img src="/images/shanghai_ai_lab1.png" width="250px" />
-		</center>
-	</div>
-	<div class="col">
-		<center>
-			<img src="/images/Logo-Sanofi.png" width="160px" />
+			<img src="/images/netmind_logo.png" width="400px" />
 		</center>
 	</div>
 </div>
