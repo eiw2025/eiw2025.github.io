@@ -1,4 +1,4 @@
-I"2‚<!-- <img src="/images/banner2024.png" style="pointer-events: none; user-select: none;"> -->
+I"^‚<!-- <img src="/images/banner2024.png" style="pointer-events: none; user-select: none;"> -->
 
 <!-- 
 <div style="
@@ -356,213 +356,7 @@ TBD
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
 <p>
-<!-- 
 
-	
-	<div class="row_perso">
-	
-	
-		
-			<div class="card_perso column_perso">
-			  <img src="/images/Mehdi_Rezagholizadeh.jpg" alt="Mehdi Rezagholizadeh" class="img_card_perso">
-			  <div class="container_perso" >
-				<center>
-				<h6>
-					<b>Mehdi Rezagholizadeh</b>
-					<br>
-					Huawei Noah's Ark Lab
-				</h6>
-				<br>
-				
-					<a href="https://scholar.google.com/citations?user=MvXlF6kAAAAJ&hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
-				
-				
-					&nbsp;
-				
-				
-					<a href="https://www.linkedin.com/in/mehdi-rezagholizadeh-61212346/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
-				
-				</center>
-			  </div>
-			</div>
-		
-			<div class="card_perso column_perso">
-			  <img src="/images/peyman_passban.jpg" alt="Peyman Passban" class="img_card_perso">
-			  <div class="container_perso" >
-				<center>
-				<h6>
-					<b>Peyman Passban</b>
-					<br>
-					Sanofi
-				</h6>
-				<br>
-				
-					<a href="https://scholar.google.ca/citations?user=wRaQX-EAAAAJ&hl=en&oi=ao"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
-				
-				
-					&nbsp;
-				
-				
-					<a href="https://www.linkedin.com/in/passban/?originalSubdomain=ca"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
-				
-				</center>
-			  </div>
-			</div>
-		
-			<div class="card_perso column_perso">
-			  <img src="/images/yu_cheng.jfif" alt="Yu Cheng" class="img_card_perso">
-			  <div class="container_perso" >
-				<center>
-				<h6>
-					<b>Yu Cheng</b>
-					<br>
-					Chinese University of Hong Kong
-				</h6>
-				<br>
-				
-					<a href="https://scholar.google.com/citations?user=ORPxbV4AAAAJ&hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
-				
-				
-					&nbsp;
-				
-				
-					<a href="https://www.linkedin.com/in/chengyu05/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
-				
-				</center>
-			  </div>
-			</div>
-		
-			<div class="card_perso column_perso">
-			  <img src="/images/soheila.jpg" alt="Soheila Samiee" class="img_card_perso">
-			  <div class="container_perso" >
-				<center>
-				<h6>
-					<b>Soheila Samiee</b>
-					<br>
-					BASF
-				</h6>
-				<br>
-				
-					<a href="https://scholar.google.ca/citations?user=9aZFWa8AAAAJ&hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
-				
-				
-					&nbsp;
-				
-				
-					<a href="https://www.linkedin.com/in/soheila-samiee-3696a858/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
-				
-				</center>
-			  </div>
-			</div>
-		
-	
-	</div>
-
-	
-	<div class="row_perso">
-	
-	
-		
-			<div class="card_perso column_perso">
-			  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card_perso">
-			  <div class="container_perso" >
-				<center>
-				<h6>
-					<b>Yue Dong</b>
-					<br>
-					University of California, Riverside
-				</h6>
-				<br>
-				
-					<a href="https://scholar.google.ca/citations?user=WYkn4loAAAAJ"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
-				
-				
-					&nbsp;
-				
-				
-					<a href="https://www.linkedin.com/in/yuedongcs/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
-				
-				</center>
-			  </div>
-			</div>
-		
-			<div class="card_perso column_perso">
-			  <img src="/images/vahid_partovi.jpg" alt="Vahid Partovi Nia" class="img_card_perso">
-			  <div class="container_perso" >
-				<center>
-				<h6>
-					<b>Vahid Partovi Nia</b>
-					<br>
-					Ecole Polytechnique Montreal & Huawei
-				</h6>
-				<br>
-				
-					<a href="https://scholar.google.ca/citations?user=onMDIN4AAAAJ&hl=en&oi=ao"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
-				
-				
-					&nbsp;
-				
-				
-					<a href="https://ca.linkedin.com/in/vahid-partovi-nia-29811385"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
-				
-				</center>
-			  </div>
-			</div>
-		
-			<div class="card_perso column_perso">
-			  <img src="/images/qun_liu.png" alt="Qun Liu" class="img_card_perso">
-			  <div class="container_perso" >
-				<center>
-				<h6>
-					<b>Qun Liu</b>
-					<br>
-					Huawei Noah's Ark Lab
-				</h6>
-				<br>
-				
-					<a href="https://scholar.google.com.sg/citations?user=2HhiGzcAAAAJ&hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
-				
-				
-					&nbsp;
-				
-				
-					<a href="https://www.linkedin.com/in/qunliu/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
-				
-				</center>
-			  </div>
-			</div>
-		
-			<div class="card_perso column_perso">
-			  <img src="/images/boxing.jpg" alt="Boxing Chen" class="img_card_perso">
-			  <div class="container_perso" >
-				<center>
-				<h6>
-					<b>Boxing Chen</b>
-					<br>
-					Huawei Noah's Ark Lab
-				</h6>
-				<br>
-				
-					<a href="https://scholar.google.ca/citations?user=LiINs3gAAAAJ&hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
-				
-				
-					&nbsp;
-				
-				
-					<a href="https://www.linkedin.com/in/boxingchen/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
-				
-				</center>
-			  </div>
-			</div>
-		
-	
-	</div>
- -->
-</p>
-
-<h2 class="blackpar_title" id="Organizers">Volunteers</h2>
-<p>
-<!-- 
 
 	
 	<div class="row_perso">
@@ -570,18 +364,166 @@ TBD
 	
 		
 			
-			<div class="card_perso column_perso" style='margin-left:13%;'>
-			  <img src="/images/Mahsa.jpg" alt="Mahsa Ghazvini Nejad" class="img_card_perso">
-			  <div class="container_perso" >
+			<div class="card_perso column_perso" style="margin-left:13%;">
+			  <img src="/images/luca_benini.jpg" alt="Luca Benini" class="img_card_perso" />
+			  <div class="container_perso">
+				<center>
+				<h6>
+					<b>Luca Benini</b>
+					<br />
+					ETH Zurich
+				</h6>
+				<br />
+				
+					<a href="https://scholar.google.com/citations?user=8riq3sYAAAAJ"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+				
+				&nbsp;
+				<a href="https://www.linkedin.com/in/lubenini/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				</center>
+			  </div>
+			</div>
+			
+		
+			
+			<div class="card_perso column_perso">
+			  <img src="/images/Lukas_Cavigelli.jpg" alt="Lukas Cavigelli" class="img_card_perso" />
+			  <div class="container_perso">
+				<center>
+				<h6>
+					<b>Lukas Cavigelli</b>
+					<br />
+					Huawei Von Neumann Laboratory
+				</h6>
+				<br />
+				
+					<a href="https://scholar.google.com/citations?user=15o2H4cAAAAJ"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+				
+				&nbsp;
+				<a href="https://www.linkedin.com/in/lcavigelli/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				</center>
+			  </div>
+			</div>
+			
+		
+			
+			<div class="card_perso column_perso">
+			  <img src="/images/kheller.jpg" alt="Katherine Heller" class="img_card_perso" />
+			  <div class="container_perso">
+				<center>
+				<h6>
+					<b>Katherine Heller</b>
+					<br />
+					Google Responsible AI
+				</h6>
+				<br />
+				
+					<a href="https://scholar.google.com/citations?user=WOAlvmoAAAAJ"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+				
+				&nbsp;
+				<a href="https://www.linkedin.com/in/katherine-heller-b289b43/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				</center>
+			  </div>
+			</div>
+			
+		
+	
+	</div>
+
+	
+	<div class="row_perso">
+	
+	
+		
+			
+			<div class="card_perso column_perso" style="margin-left:13%;">
+			  <img src="/images/vahid_partovi.jpg" alt="Vahid Partovi Nia" class="img_card_perso" />
+			  <div class="container_perso">
+				<center>
+				<h6>
+					<b>Vahid Partovi Nia</b>
+					<br />
+					Ecole Polytechnique Montreal &amp; Huawei Noah's Ark Lab
+				</h6>
+				<br />
+				
+					<a href="https://scholar.google.ca/citations?user=onMDIN4AAAAJ&amp;hl=en&amp;oi=ao"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+				
+				&nbsp;
+				<a href="https://ca.linkedin.com/in/vahid-partovi-nia-29811385"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				</center>
+			  </div>
+			</div>
+			
+		
+			
+			<div class="card_perso column_perso">
+			  <img src="/images/Mehdi_Rezagholizadeh.jpg" alt="Mehdi Rezagholizadeh" class="img_card_perso" />
+			  <div class="container_perso">
+				<center>
+				<h6>
+					<b>Mehdi Rezagholizadeh</b>
+					<br />
+					AMD
+				</h6>
+				<br />
+				
+					<a href="https://scholar.google.com/citations?user=MvXlF6kAAAAJ&amp;hl=en"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+				
+				&nbsp;
+				<a href="https://www.linkedin.com/in/mehdi-rezagholizadeh-61212346/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				</center>
+			  </div>
+			</div>
+			
+		
+			
+			<div class="card_perso column_perso">
+			  <img src="/images/Habib-Hajimolahoseini.png" alt="Habib Hajimolahoseini" class="img_card_perso" />
+			  <div class="container_perso">
+				<center>
+				<h6>
+					<b>Habib Hajimolahoseini</b>
+					<br />
+					AMD
+				</h6>
+				<br />
+				
+					<a href="https://scholar.google.com/citations?user=ECIUuhoAAAAJ"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+				
+				&nbsp;
+				<a href="https://www.linkedin.com/in/habib-h-669710a7/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				</center>
+			  </div>
+			</div>
+			
+		
+	
+	</div>
+
+</p>
+
+<h2 class="blackpar_title" id="Organizers">Volunteers</h2>
+<p>
+
+
+	
+	<div class="row_perso">
+	
+	
+		
+			
+			<div class="card_perso column_perso" style="margin-left:13%;">
+			  <img src="/images/Mahsa.jpg" alt="Mahsa Ghazvini Nejad" class="img_card_perso" />
+			  <div class="container_perso">
 				<center>
 				<h6>
 					<b>Mahsa Ghazvini Nejad</b>
-					<br>
+					<br />
 					Huawei Noah's Ark Lab
 				</h6>
-				<br>
+				<br />
 				
-					<a href="https://scholar.google.com/citations?hl=en&user=lcbIy5IAAAAJ"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+					<a href="https://scholar.google.com/citations?hl=en&amp;user=lcbIy5IAAAAJ"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
 				
 				&nbsp;
 				<a href="https://www.linkedin.com/in/mahsa-ghazvini-nejad/?originalSubdomain=ca"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
@@ -590,9 +532,51 @@ TBD
 			</div>
 			
 		
+			
+			<div class="card_perso column_perso">
+			  <img src="/images/mirhamed.jpg" alt="MirHamed Jafarzadeh Asl" class="img_card_perso" />
+			  <div class="container_perso">
+				<center>
+				<h6>
+					<b>MirHamed Jafarzadeh Asl</b>
+					<br />
+					Huawei Noah's Ark Lab
+				</h6>
+				<br />
+				
+					<a href="https://scholar.google.com/citations?user=M9ZC4mwAAAAJ"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+				
+				&nbsp;
+				<a href="https://www.linkedin.com/in/mirhamed-jafarzadeh/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				</center>
+			  </div>
+			</div>
+			
+		
+			
+			<div class="card_perso column_perso">
+			  <img src="/images/mreza_sadeghi.jpeg" alt="Mohammadreza Sadeghi" class="img_card_perso" />
+			  <div class="container_perso">
+				<center>
+				<h6>
+					<b>Mohammadreza Sadeghi</b>
+					<br />
+					Huawei Noah's Ark Lab
+				</h6>
+				<br />
+				
+					<a href="https://scholar.google.com/citations?user=mD5pps0AAAAJ"><i class="bi bi-mortarboard-fill" style="font-size: 2rem;"></i></a>
+				
+				&nbsp;
+				<a href="https://www.linkedin.com/in/mrsgd/"><i class="bi bi-linkedin" style="font-size: 2rem;"></i></a>
+				</center>
+			  </div>
+			</div>
+			
+		
 	
 	</div>
- -->
+
 </p>
 <!-- <div class="row_perso">
 	<div class="card_perso column_perso justify-content-center" id="volunteer_card">
