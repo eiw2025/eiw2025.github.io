@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-<img src="/images/EAW2026_ICML.png" style="pointer-events: none; user-select: none;">
+<img src="/images/EAW2026_Neurips.png" style="pointer-events: none; user-select: none;">
 
  
 <!-- Latest Updates at the top of the main page! -->
@@ -31,16 +31,16 @@ layout: home
 
 
 <p>
-The <b>Edge Agents Workshop (EAW)</b> explores the design and deployment of autonomous AI agents on resource-constrained edge devices such as AIoT hardware, smartphones, wearables, and autonomous systems. As foundation models continue to grow in scale, enabling agents to perceive, reason, plan, and coordinate efficiently at the edge introduces new challenges in lightweight model design. Challenges include on-device training and inference, energy-aware execution, and secure decentralized communication, and low-power secure orchestration. This workshop focuses on advancing real-time, privacy-preserving, and cost-efficient edge intelligence, bridging cutting-edge machine learning research with practical deployment constraints. It will attract ICML researchers and practitioners interested in agent learning, efficient model adaptation, distributed autonomy, and the next generation of agentic AI operating beyond the cloud.
+The <b>Edge Agents Workshop (EAW)</b> at NeurIPS 2026 is dedicated to autonomous, edge-native agentic AI: systems that can perceive, reason, plan, act, adapt, and coordinate directly on resource-constrained devices such as AIoT platforms, smartphones, wearables, autonomous robots, and connected vehicles. As agentic AI moves beyond cloud-scale demonstrations, EAW focuses on making these systems efficient, private, robust, safe, and trustworthy under real-world limits on compute, memory, latency, energy, hardware, and connectivity.
 </p>
 
 
 <h2 class="blackpar_title" id="overview">Overview</h2>
 <p>
-Agentic AI is moving beyond cloud-only deployment toward systems that must operate locally, respond in real time, and preserve user privacy. Doing this on edge platforms introduces a different set of constraints than typical server-scale settings: limited compute, memory, and energy budgets, plus tight latency requirements. The Edge Agents Workshop (EAW) focuses on what it takes to run the full agent loop, perception, reasoning, planning, and action, directly on resource-constrained devices such as AIoT hardware, smartphones, wearables, and autonomous systems.
+Agentic AI is rapidly moving from cloud-hosted environments into devices that must operate locally, respond in real time, and preserve user privacy. Edge-native deployment creates challenges distinct from conventional server-scale AI: compact perception, on-device planning, energy-efficient inference, adaptive learning, secure cross-device coordination, and operation under intermittent connectivity. EAW centers the full autonomous loop at the edge, where agents must repeatedly sense, reason, plan, act, adapt, and remain reliable outside the data center.
 </p>
 <p>
-EAW emphasizes practical deployment of agentic, multimodal systems under real-world constraints, including on-device training and inference, energy-aware execution, adaptive compression and efficient model adaptation, cross-device coordination, and secure decentralized communication and low-power orchestration. It also considers hybrid edge and cloud agent architectures that balance performance, privacy, and responsiveness. The workshop aims to catalyze collaboration across machine learning, embedded and edge hardware, telecommunications, and optimization, and will feature rigorously reviewed contributed papers presented as talks and posters, plus a concluding panel on open problems, with best paper and best poster awards.
+The workshop aims to bring together the NeurIPS community across machine learning, systems, hardware, robotics, autonomy, privacy, security, optimization, and responsible AI. EAW will focus on open questions such as how to evaluate long-horizon agent behavior under energy and latency budgets, how to maintain robustness and privacy during cross-device coordination, how to support on-device adaptation without drift or privacy leakage, and how to co-design models, memory, compilers, and hardware for trustworthy autonomous behavior. Through invited talks, contributed papers, posters, demos, a moderated panel, and structured discussion, EAW will help shape research directions, benchmark needs, and deployment practices for the next generation of edge-native agentic systems.
 </p>
 
 <!-- Call for Papers -->
